@@ -3,6 +3,8 @@
 
 🔭 I’m currently working on how communication emerges among neural network agents and how that models human language evolution.
 
+Learn more about me [here](https://lgalke.github.io)
+
 <!--
 **lgalke/lgalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
