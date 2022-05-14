@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on how communication emerges among neural network agents and how that models human language evolution.
+🔭 I’m currently working on how communication emerges among deep nets.
 
 Learn more about me [here](https://lgalke.github.io)
 
