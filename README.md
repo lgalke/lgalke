@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on how communication emerges among deep nets.
+🔭 I’m teaching deep nets how to communicate.
 
 Learn more about me [here](https://lgalke.github.io)
 
