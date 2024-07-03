@@ -5,8 +5,6 @@
 
 Learn more about me [here](https://lgalke.github.io)
 
-Reach out to me on <a rel="me" href="https://sigmoid.social/@lpag">Mastodon</a>!
-
 <!--
 **lgalke/lgalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
