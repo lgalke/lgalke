@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I'm an Assistant Professor for Data Science and Advanced Machine Learning at the University of Southern Denmark.
+🔭 I'm an Assistant Professor at the University of Southern Denmark seeking to make language models more efficient and interpretable.
 
 Learn more about me [here](https://lgalke.github.io)
 
